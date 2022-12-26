@@ -1,2 +1,2 @@
 # VeganMilkMaker
-Create your own milk using oats. Included are schematics of the circuit board, code for an Arduino, and 3D printed parts.
+Create your own milk using oats. The code runs on an Arduino. Reach out for 3d printed parts and schematics of the circuit board.
